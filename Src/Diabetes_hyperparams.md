@@ -12,7 +12,7 @@ Relevant hyper-params are:
 -----------------
 
 
-###ProOLS
+### ProOLS
 
 - Speed 0 :  {'NN_basis_dim': '32', 'Policy_basis_dim': '32', 'actor_lr': 0.007232964846409767, 'algo_name': 'ProOLS', 'base': 0, 'batch_size': 1000, 'buffer_size': 1000, 'debug': False, 'delta': 1, 'entropy_lambda': 0.1, 'env_name': 'NS_SimGlucose-v0', 'experiment': 'NS', 'extrapolator_basis': 'Fourier', 'folder_suffix': '75_NS_0_-1_NS_SimGlucose-v0_Fourier_1000_1_20_2_5.0_0.007232964846409767_0.99_1.85938_True_3_1000_1000_100_rmsprop_True_False_False_False_term_0', 'fourier_coupled': True, 'fourier_k': 2, 'fourier_order': 3, 'gamma': 0.99, 'gauss_std': 1.85938, 'gpu': 0, 'hyper': 0, 'importance_clip': 5.0, 'inc': 750, 'log_output': 'term', 'max_episodes': 1000, 'max_inner': 20, 'max_steps': 500, 'optim': 'rmsprop', 'oracle': -1, 'raw_basis': True, 'restore': False, 'save_count': 100, 'save_model': False, 'seed': 0, 'speed': 0, 'state_lr': 0.001, 'summary': True, 'swarm': True, 'timestamp': '8|3|19:53:2'}
 
