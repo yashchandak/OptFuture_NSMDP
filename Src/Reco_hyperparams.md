@@ -11,7 +11,7 @@ Relevant hyper-params are:
 -----------------
 
 
-###ProOLS
+### ProOLS
 
 
 - Speed 0 :  {'NN_basis_dim': '32', 'Policy_basis_dim': '32', 'actor_lr': 0.0013967975033711264, 'algo_name': 'ProOLS', 'base': 0, 'batch_size': 1000, 'buffer_size': 1000, 'debug': False, 'delta': 1, 'entropy_lambda': 0.009309067356364342, 'env_name': 'NS_Reco', 'experiment': 'NS', 'extrapolator_basis': 'Fourier', 'folder_suffix': '1181_NS_0_-1_NS_Reco_Fourier_1000_1_30_5_15.0_0.009309067356364342_0.0013967975033711264_0.99_True_3_1000_1000_100_rmsprop_True_False_False_False_term_0', 'fourier_coupled': True, 'fourier_k': 5, 'fourier_order': 3, 'gamma': 0.99, 'gauss_std': 1.5, 'gpu': 0, 'hyper': 'Reco0', 'importance_clip': 15.0, 'inc': 35459, 'log_output': 'term', 'max_episodes': 1000, 'max_inner': 30, 'max_steps': 500, 'optim': 'rmsprop', 'oracle': -1, 'raw_basis': True, 'restore': False, 'save_count': 100, 'save_model': False, 'seed': 29, 'speed': 0, 'state_lr': 0.001, 'summary': True, 'swarm': True, 'timestamp': '8|5|18:50:26'}
