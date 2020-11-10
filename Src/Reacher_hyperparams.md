@@ -1,4 +1,4 @@
-Some good settings from hyper-param search for diabetes domain.
+Some good settings from hyper-param search for reacher domain.
 
 Relevant hyper-params are:
 
